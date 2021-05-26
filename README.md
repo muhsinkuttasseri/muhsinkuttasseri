@@ -59,18 +59,9 @@ Here are some ideas to get you started:
 [![Muhsin Kuttasseri's github stats](https://github-readme-stats.vercel.app/api?username=muhsinkuttasseri&count_private=true&theme=gotham&showicons=true)](https://github.com/safwanvk/github-readme-stats)
 
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-```text
-Python       23 hrs 47 mins  ███████████████████▓░░░░░   79.26 % 
-JavaScript   3 hrs 38 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-CSS          1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
-Text         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-HTML         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-```
-<!--END_SECTION:waka-->
+
 
 
 
 [dsccui]: https://xanthron.com/
-[profile]: https://safwanvk.live/
+[profile]: https://msns.xanthron.com/
